@@ -73,6 +73,19 @@ hr {
   text-decoration: underline;
 }
 
+.top-cloud {
+  width: 10%;
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  width: 10%;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
 
 .pp{
   border-radius: 50%;
